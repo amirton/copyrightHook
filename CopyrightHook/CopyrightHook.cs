@@ -1,6 +1,6 @@
 ﻿/*
  * © 2017 Amirton Chagas
- * */
+ */
 
 using System;
 using System.Collections.Generic;
